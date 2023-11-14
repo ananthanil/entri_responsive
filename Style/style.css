@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+footer {
+    background-color: #494d4b;
+    text-align: center;
+    height: auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.footcon {
+    color: white;
+    margin-top: 1%;
+}
+
+.footp {
+    color: #abb3b0;
+}
